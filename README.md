@@ -159,4 +159,4 @@ The following elements are automatically removed:
 - Check the browser console for errors
 
 **Credits:**
-- ClaudeCode for assisting me in my goal to never need to learn JS
+- ClaudeCode for assisting me in my goal to never learn JS and writing documentation
