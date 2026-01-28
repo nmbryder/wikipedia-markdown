@@ -18,13 +18,7 @@ A Chrome browser extension (Manifest V3) that converts Wikipedia articles to cle
 
 ## Installation
 
-1. Create icon images (required):
-   - Create three PNG files: `icon16.png`, `icon48.png`, and `icon128.png`
-   - Sizes: 16x16, 48x48, and 128x128 pixels respectively
-   - Place them in the extension directory
-   - You can use any image editor or online tool to create simple icons
-
-2. Load the extension in Chrome:
+1. Load the extension in Chrome:
    - Open Chrome and navigate to `chrome://extensions/`
    - Enable "Developer mode" (toggle in top-right corner)
    - Click "Load unpacked"
